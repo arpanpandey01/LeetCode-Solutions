@@ -8,7 +8,7 @@ public:
         string s = strs[0];
         string ans = "";
 
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.size(); i++) {
 
             for (int j = 1; j < strs.size(); j++) {
 
